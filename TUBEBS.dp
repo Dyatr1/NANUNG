@@ -1,0 +1,12 @@
+[Project]
+FileName=C:\algoritma\TUBEBS.dp
+Name=TUBEBS
+MainUnit=C:\algoritma\TUHKAN.pas
+UnitCount=1
+ResFiles=C:\algoritma\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=C:\algoritma\TUHKAN.pas
+FileTime=1514953008
